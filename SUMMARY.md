@@ -1,6 +1,6 @@
 # SUMMARY
 * [前言](Foreword.md)
-* [介绍](Introduction.md)
+* [介绍](Introduction/index.md)
   * [这本书包含什么？](Introduction/what-does-this-book-cover.md)
   * [互动的在线学习环境和测试环境](Introduction/interactive-online-learning-environment-and-test-bank.md)
   * [考试目标](Introduction/exam-objectives.md)
